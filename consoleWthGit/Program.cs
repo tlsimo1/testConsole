@@ -12,6 +12,9 @@ namespace consoleWthGit
         {
             Console.WriteLine("firt test");
             Console.WriteLine("firt test");
+
+            Console.WriteLine(" test");
+            Console.WriteLine(" test");
         }
     }
 }
